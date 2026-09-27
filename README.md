@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="600" alt="IMPALED INDUSTRY">
+  <img src="logo.jpg" width="600" alt="IMPALED INDUSTRY">
 </div>
 
 <sub>$\color{#FFD37F}{\textsf{\textit{Expansion of the original content and establishment of a new system}}}$</sub>
