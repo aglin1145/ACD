@@ -2,7 +2,13 @@
   <img src="logo.jpg" width="600" alt="IMPALED INDUSTRY">
 </div>
 
-<sub>$\color{#FFD37F}{\textsf{\textit{Expansion of the original content and establishment of a new system}}}$</sub>
+<div align="center">
+
+<sub>$\color{#FFD37F}{\textsf{\textit{Expansion of the original content}}}$</sub>
+
+<sub>$\color{#FFD37F}{\textsf{\textit{and establishment of a new system}}}$</sub>
+
+</div>
 
 ## What you can play
 
