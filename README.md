@@ -34,10 +34,10 @@
 
 | 1 | 2 |
 | :---: | :---: |
-| <img src="assets/gif/1.gif" width="100%" alt="gif 1"> | <img src="assets/gif/2.gif" width="100%" alt="gif 2"> |
+| <video src="assets/vid/1.mp4" autoplay loop muted playsinline></video> | <video src="assets/vid/2.mp4" autoplay loop muted playsinline></video> |
 | 3 | 4 |
-| <img src="assets/gif/3.gif" width="100%" alt="gif 3"> | <img src="assets/gif/4.gif" width="100%" alt="gif 4"> |
+| <video src="assets/vid/3.mp4" autoplay loop muted playsinline></video> | <video src="assets/vid/4.mp4" autoplay loop muted playsinline></video> |
 | 5 | 6 |
-| <img src="assets/gif/5.gif" width="100%" alt="gif 5"> | <img src="assets/gif/6.gif" width="100%" alt="gif 6"> |
+| <video src="assets/vid/5.mp4" autoplay loop muted playsinline></video> | <video src="assets/vid/6.mp4" autoplay loop muted playsinline></video> |
 | 7 | |
-| <img src="assets/gif/7.gif" width="100%" alt="gif 7"> | |
+| <video src="assets/vid/7.mp4" autoplay loop muted playsinline></video> | |
