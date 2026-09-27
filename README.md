@@ -4,7 +4,7 @@
 
 <sub>*Expansion of the original content and establishment of a new system*</sub>
 
-## What you can play
+$\color{#FFD37F}{\textsf{\textbf{\LARGE What you can play}}}$
 
 <sub>1. T6 tier for vanilla units, plus 3 new unit series</sub>
 
@@ -16,4 +16,4 @@
 
 ---
 
-**Beyond that**, much content is still incomplete — maps, translations, and the polishing of existing content — but we'll keep updating consistently.
+$\color{#FFD37F}{\textsf{\textbf{Beyond that}}}$, much content is still incomplete — maps, translations, and the polishing of existing content — but we'll keep updating consistently.
